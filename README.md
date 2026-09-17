@@ -4,7 +4,7 @@
 
 Ich entwickle Webanwendungen im Frontend und Backend und arbeite in meiner Abschlussarbeit an der produktiven Anbindung von LLM- und Sprach-KI-Diensten.
 
-📄 **[Vollständiger Lebenslauf](https://DEIN-USERNAME.github.io/lebenslauf/)**
+📄 **[Vollständiger Lebenslauf](https://fannyOnla.github.io/lebenslauf/)**
 
 ---
 
